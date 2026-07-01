@@ -36,9 +36,9 @@ VHF/UHF‑and‑up world where the W2 lives.
 
 ## Screenshots
 
-Main readout and Setup:
+The Setup window — meters, W2 controls, display toggles, and TX timeout:
 
-![W2 Monitor overview](docs/screenshot-overview.png)
+![W2 Monitor Setup window](docs/screenshot-setup.png)
 
 ## Requirements
 
